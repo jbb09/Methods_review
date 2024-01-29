@@ -1,0 +1,35 @@
+Assignment 1
+
+Source #1. 
+National Center for Science Education, Texas Freedom Network Education Fund. 2020. “Making the Grade? How State Public School Science Standards Address Climate Change A Report from the National Center for Science Education and the Texas Freedom Network Education Fund.” Retrieved January 25, 2024 (https://climategrades.org/MakingTheGradeReport.pdf).
+
+
+- The authors enlisted 3 expert reviewers - a climate scientist, evolution/ecology specialist, and education researcher (and former teacher) - to assess the effectiveness of US states in implementing the climate change-focused dimension of the Next Generation Science Standards (NGSS). The unit of analysis is a given state and its standards; the time stamp appears to be 2020. 
+
+- Reviewers grade state science standards across an array of dimensions (framing climate change as human-caused, being explicit, etc.) on a Likert scale, from 'very good' to 'not present'. These ratings were converted to a numerical scale; they were then weighted, averaged and curved to provide each state with an overall comparative score. 
+
+- The authors don't mention their strategy for missing data, and may not have had this issue due to the close working partnership with these reviewers.  
+
+- This report gives a really helpful model as I think about how to conceptualize and measure effectiveness in climate education efforts. It also provides a working, comparative map of where a given state sits on the issue. I'd like to see the individual responses and any included comments from the reviewers, as well as the code for organizing this data conceptually and visually. 
+
+Source #2
+Ennes, Megan, Danielle F. Lawson, Kathryn T. Stevenson, M. Nils Peterson, and M. Gail Jones. 2021. “It’s about Time: Perceived Barriers to in-Service Teacher Climate Change Professional Development.” Environmental Education Research 27(5):762–78. doi: 10.1080/13504622.2021.1909708.
+
+- The authors surveyed a population of teachers in a "southeastern state" who opted out of a climate change-focused professional development opportunity. The goal was to identify barriers which teachers perceived as a barrier to participating. They randomly selected teachers from 60 public middle schools, then appear to have used logistic regression to understand teacher dispositions and barriers to participation. The type of regression used is unclear. 
+
+- The units of analysis are individual teachers from randomly selected schools, and the data seems to have been collected in 2020
+
+- List-wise deletion seems to be the implied method of dealing with missing data here, based on this quote: "“After cleaning the data, a total of 54 teachers had completed the entire survey either via email or over the phone.”
+
+- I'm interested in potentially using their entire survey sampling and data analysis model. The research questions are relevant to my work and the entire exercise could potentially be translated to my own regional context.
+
+Source #3 
+Busch, K. C. 2016. “Polar Bears or People? Exploring Ways in Which Teachers Frame Climate Change in the Classroom.” International Journal of Science Education, Part B 6(2):137–65. doi: 10.1080/21548455.2015.1027320.
+
+- The authors utilized a content analysis method to codify qualitative observational data of climate lessons into a quantitative, comparative system of ideas and framing. This system is used to examine correlation between the different ways in which the issue is framed, amount of time per observation that a particular framing is employed, dominant discourses, etc. A Pearson's r coefficient was obtained to determine the frames which were most strongly correlated with one another. 
+
+- The unit of analysis for the quantitative piece is an individual frame/idea, described as a single sentence at minimum. The study took place over the course of 3 years prior to publication in 2015.
+
+- This work provides an excellent model for content analysis can be approached. I'm interested in how their theoretical and transcript analysis frameworks were developed, as well as the code used (with NVivo) to organize and examine the data for correlations. 
+
+
