@@ -15,6 +15,8 @@ National Center for Science Education, Texas Freedom Network Education Fund. 202
 Source #2
 Ennes, Megan, Danielle F. Lawson, Kathryn T. Stevenson, M. Nils Peterson, and M. Gail Jones. 2021. “It’s about Time: Perceived Barriers to in-Service Teacher Climate Change Professional Development.” Environmental Education Research 27(5):762–78. doi: 10.1080/13504622.2021.1909708.
 
+(NOTE: I have included the data available on the article's doi site to be thorough; however, this data doesn't seem to be particularly detailed or useful)
+
 - The authors surveyed a population of teachers in a "southeastern state" who opted out of a climate change-focused professional development opportunity. The goal was to identify barriers which teachers perceived as a barrier to participating. They randomly selected teachers from 60 public middle schools, then appear to have used logistic regression to understand teacher dispositions and barriers to participation. The type of regression used is unclear. 
 
 - The units of analysis are individual teachers from randomly selected schools, and the data seems to have been collected in 2020
